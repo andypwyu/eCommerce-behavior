@@ -41,4 +41,4 @@ The analysis can be found at the post available [here](https://medium.com/@andyy
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to REES46 Marketing Platform & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store). Feel free to use the code here! 
+Must give credit to [REES46 Marketing Platform](https://rees46.com/) & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store). Feel free to use the code here! 
