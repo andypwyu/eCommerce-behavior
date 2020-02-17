@@ -12,12 +12,12 @@ DSND Term 2 Project: eCommerce behavior data from multi category store
 
 ## Installation <a name="installation"></a>
 
-The code should run with no issues using Python versions 3.* with Anaconda. Some libraries you need to install into Anaconda:
+The code should run with no issues using Python versions 3.*. If you use Anaconda, please make sure install below libraries:
 
 1. squarify
 2. xgboost 
 
-Also, due to the data volume is huge and not able to upload, please download the data (2019-Nov.csv) from Kaggle. Link: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store#2019-Nov.csv
+Also, due to the data volume is huge and not able to upload, please download the data (2019-Nov.csv) from Kaggle [here]( https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store#2019-Nov.csv).
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -37,7 +37,7 @@ eCommerce behavior data from multi category store.ipynb - The notebooks is explo
 
 ## Results<a name="results"></a>
 
-The analysis can be found at the post available [here](https://medium.com/@andyyu_68202/will-customers-buy-the-products-in-their-cart-b8ac5e30f3)
+The analysis and insight summary can be found at the Medium post [here](https://medium.com/@andyyu_68202/will-customers-buy-the-products-in-their-cart-b8ac5e30f3).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
